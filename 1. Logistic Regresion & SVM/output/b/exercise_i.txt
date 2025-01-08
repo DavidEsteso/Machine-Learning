@@ -1,0 +1,36 @@
+SVM Model with C=0.001:
+Coefficients: [0.02097364 0.33632022]
+Intercept: -0.36684731779329155
+
+Number of Iterations: 10
+Model Score: 0.7777777777777778
+Regularization (C): 0.001
+
+
+SVM Model with C=0.01:
+Coefficients: [0.06255865 0.82897686]
+Intercept: -0.5589756766691142
+
+Number of Iterations: 11
+Model Score: 0.8318318318318318
+Regularization (C): 0.01
+
+
+SVM Model with C=1:
+Coefficients: [0.0968777  1.29317504]
+Intercept: -0.7446197669066591
+
+Number of Iterations: 63
+Model Score: 0.8308308308308309
+Regularization (C): 1
+
+
+SVM Model with C=10:
+Coefficients: [0.09742731 1.30265949]
+Intercept: -0.7488452087483972
+
+Number of Iterations: 555
+Model Score: 0.8308308308308309
+Regularization (C): 10
+
+

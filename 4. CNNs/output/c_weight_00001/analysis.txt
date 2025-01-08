@@ -1,0 +1,8 @@
+Total parameters in the model: 37146
+Layer with most parameters: dense_6 (20490 parameters)
+Test accuracy: 50.52%
+Test loss: 1.4531
+Train accuracy: 65.40%
+Train loss: 1.1040
+Execution time: 8.57 seconds
+Baseline accuracy (most common label): 10.00%

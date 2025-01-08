@@ -1,0 +1,39 @@
+0.928936 M parameters
+step 0: train loss 3.6786, val loss 3.6819
+step 100: train loss 1.8199, val loss 1.8317
+step 200: train loss 0.5186, val loss 0.5231
+step 300: train loss 0.3804, val loss 0.3825
+step 400: train loss 0.3632, val loss 0.3653
+step 500: train loss 0.3611, val loss 0.3622
+step 600: train loss 0.3551, val loss 0.3600
+step 700: train loss 0.3530, val loss 0.3557
+step 800: train loss 0.3500, val loss 0.3542
+step 900: train loss 0.3497, val loss 0.3535
+step 999: train loss 0.3477, val loss 0.3514
+training time: 758.3225886821747 seconds
+
+I want cookie I sing
+More more No touch
+Daddy play I clove you
+Where ball Where kity go
+I see dogggy Saw big fluffy doggy at park b run fast More bubbless
+Daddy read me dinosaur book before bed Come here
+Big hug
+All done Big hug
+Look airplane I make mess
+Big hug I tired
+I draw Night night
+I dide No touch
+I hide More more
+I run fast My tedddy
+I did it I hungry
+I love you Daddy read me dosaur book before bed
+No touch Look airplane
+Bath time I jump
+I tired All done
+Shoes on I tired
+I wash hands Hel
+
+layers 2
+embd 192
+block 128

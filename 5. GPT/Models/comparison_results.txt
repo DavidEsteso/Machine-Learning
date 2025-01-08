@@ -1,0 +1,35 @@
+
+=== input_childSpeech_testSet.txt ===
+Final Perplexity: 1.43
+Average Loss: 0.3584
+Min Loss: 0.1779
+Max Loss: 0.4898
+--------------------------------------------------
+
+=== input_childSpeech_testSet.txt ===
+Final Perplexity: 1.43
+Average Loss: 0.3573
+Min Loss: 0.1704
+Max Loss: 0.4938
+--------------------------------------------------
+
+=== input_shakespeare.txt ===
+Final Perplexity: 908.55
+Average Loss: 6.8119
+Min Loss: 5.2790
+Max Loss: 8.9107
+--------------------------------------------------
+
+=== input_childSpeech_testSet.txt ===
+Final Perplexity: 22.81
+Average Loss: 3.1274
+Min Loss: 3.0184
+Max Loss: 3.2420
+--------------------------------------------------
+
+=== input_shakespeare.txt ===
+Final Perplexity: 40.01
+Average Loss: 3.6892
+Min Loss: 2.9878
+Max Loss: 5.4783
+--------------------------------------------------

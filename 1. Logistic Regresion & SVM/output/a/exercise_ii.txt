@@ -1,0 +1,7 @@
+Logistic Regression Model Parameters:
+Coefficients: [0.22520192 3.61126809]
+Intercept: -2.1529986431787473
+
+Additional Model Information:
+Number of Iterations: [8]
+Model Score: 0.8288288288288288

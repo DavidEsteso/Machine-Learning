@@ -1,0 +1,8 @@
+Total parameters in the model: 23314
+Layer with most parameters: conv2d_23 (9248 parameters)
+Test accuracy: 60.82%
+Test loss: 1.1340
+Train accuracy: 64.06%
+Train loss: 1.0606
+Execution time: 51.25 seconds
+Baseline accuracy (most common label): 10.00%

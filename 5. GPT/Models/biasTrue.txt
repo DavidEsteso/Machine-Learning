@@ -1,0 +1,40 @@
+0.930088 M parameters
+step 0: train loss 3.7525, val loss 3.7518
+step 100: train loss 1.8103, val loss 1.8213
+step 200: train loss 0.4787, val loss 0.4825
+step 300: train loss 0.3752, val loss 0.3786
+step 400: train loss 0.3631, val loss 0.3661
+step 500: train loss 0.3584, val loss 0.3611
+step 600: train loss 0.3551, val loss 0.3588
+step 700: train loss 0.3523, val loss 0.3554
+step 800: train loss 0.3518, val loss 0.3563
+step 900: train loss 0.3492, val loss 0.3522
+step 999: train loss 0.3468, val loss 0.3516
+training time: 786.1466791629791 seconds
+
+Shog Where ball I jump high
+Look airplane I wash hands
+Big hug I want cookie
+Bath time I jump high
+Go park Uh oh spill
+I climb I mrake mess
+No stop Alll gone
+Where ball I maLook moon
+All done I tired
+I love you
+Shoes on I dance
+No nap I make mess
+No mine I hide
+I found it
+I tired My teddy
+I want coookie More bubbles
+No mine
+Read book No nap
+I hide I did it
+No like it No touch
+No nap Where ball
+Where ball No mine
+I love you I climb
+I see bird No mine
+I love yoggy Look airplane
+Mama I wamant play

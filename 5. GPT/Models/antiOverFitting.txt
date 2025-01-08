@@ -1,0 +1,47 @@
+0.928936 M parameters
+step 0: train loss 3.6786, val loss 3.6817
+step 100: train loss 2.0951, val loss 2.1013
+step 200: train loss 1.8394, val loss 1.8511
+step 300: train loss 1.1532, val loss 1.1569
+step 400: train loss 0.5289, val loss 0.5332
+step 500: train loss 0.4420, val loss 0.4445
+step 600: train loss 0.4081, val loss 0.4131
+step 700: train loss 0.3956, val loss 0.3987
+step 800: train loss 0.3862, val loss 0.3887
+step 900: train loss 0.3770, val loss 0.3803
+step 999: train loss 0.3799, val loss 0.3823
+training time: 327.2313406467438 seconds
+
+No touch Bath time
+Uh oh spil
+Look airplane
+I draw h Saw big red bal ooutside Mama rplay with big red Go park
+All done No stop
+Mama I want
+Yummmy aple please All done Help mease No stop
+Shoes on
+My tedddy Saw big fluffydy dogggy at pare I see bird Noo nap
+Daddy play I climb
+I tired All gone
+More bubbblfore bed
+My tedddy More more
+Alll one I want cookie
+I se jump high Lok aooon I draw
+Loook mooon I see b
+Bathudeadsig No stop
+Come here Dadd read tt
+Come here No minur I did it
+I jump high I tired
+D
+
+batch_size = 32 # how many independent sequences will we process in parallel?
+block_size = 128 # what is the maximum context length for predictions?
+max_iters = 1000
+eval_interval = 100
+learning_rate = 2e-4
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+eval_iters = 200
+n_embd = 192
+n_head = 6
+n_layer = 2
+dropout = 0.4
